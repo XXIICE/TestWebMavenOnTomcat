@@ -1,0 +1,9 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="Hello" type="JSP" />
+      <mapping pattern="jj" type="JSP" />
+      <mapping pattern="spring-mvcservlet" type="XML" />
+    </extensionMap>
+  </component>
+</application>
